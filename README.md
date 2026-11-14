@@ -5,9 +5,9 @@ Este repositorio contiene el código y los recursos para el Proyecto Final Integ
 
 ## Integrantes
 
-Martinez, Andrea Alejandra
-Miretti, Guido
-Segarra, Alexis
+- Martinez, Andrea Alejandra
+- Miretti, Guido
+- Segarra, Alexis
 
 ## Contenido
 
