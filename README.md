@@ -3,6 +3,12 @@
 
 Este repositorio contiene el código y los recursos para el Proyecto Final Integrador del Diplomado en Ciencia de Datos y Análisis Avanzado. El objetivo es Predicción del tiempo de entrega de paquetes de distintos pesos y tamaños usando Machine learning, siguiendo la metodología CRISP‑DM.
 
+## Integrantes
+
+Martinez, Andrea Alejandra
+Miretti, Guido
+Segarra, Alexis
+
 ## Contenido
 
 Grupo_16_TP_Final Git hub.ipynb`: ejecutado en googlecolab con todo el análisis: carga de datos, ingeniería de variables, modelado (Bayesian Ridge -modelo benchmark- ,Regresión Lineal, SVR, LGBM, DNN), evaluación de métricas y explicación de variables mediante valores SHAP.
